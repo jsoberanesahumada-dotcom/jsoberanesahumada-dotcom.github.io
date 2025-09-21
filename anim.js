@@ -29,7 +29,7 @@ var lyricsData = [
   { text: "Demasiada luz para el crepusculo", time: 182.23 },
   { text: "En el estado de amor de las flores", time: 187.69 },
   { text: "TE QUIERO MUCHO SAM", time: 201 },
-  { text: "ESPERO Y TE HAYAS QUEDA HASTA EL FINAL", time: 206 },
+  { text: "ESPERO Y TE HAYA GUSTADO ❤", time: 206 },
 ];
 
 // Animar las letras
